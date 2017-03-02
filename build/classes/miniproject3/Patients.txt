@@ -1,0 +1,12 @@
+A900:1234:Jimmy:Hawkins:Marietta:jhawk@yahoo.com:Cigna
+A901:9999:Bill:Smith:Acworth:bsmith@gmail.com:Aetna
+A902:8888:Teri:Smart:Atlanta:tsm@yahoo.com:BlueCross
+A903:777:James:Roy:Acworth:jamesray@gmail.com:BlueCross
+A904:5555:Mary:Wilson:Roswell:mwil@yahoo.com:Cigna
+A905:1111:Faith:Adams:Roswell:faith@gmail.com:Aetna
+A906:1111:Jerry:Jones:Dallas:jj@cowboys.com:Cigna
+A907:9090:Carrie:Slater:Marietta:cslat@gmail.com:Cigna
+A908:9898:Sara:Jefferson:Dallas:sjeff@gmail.com:Cigna
+A909:1234:Debbie:Johnson:Marietta:djohn@hotmail.com:Cigna
+A910:1111:Marth:Stewart:Marietta:mstew@gmail.com:Aetna
+A911:4555:John:Franca:Kennesaw:jfranco@hotmail.com:BlueCross

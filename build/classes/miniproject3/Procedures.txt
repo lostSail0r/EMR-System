@@ -1,0 +1,9 @@
+P114:CleaningExam:TeethCleaning:99.99
+P119:XRays:TakeXRays:320.00
+P122:Whitening:TeathWhitening:122.99
+P321:Cavity:FillACavity:319.00
+P650:TopDentures:AddTopDentures:1950.00
+P660:BottomDentures:AddBottomDentures:1950.00
+P780:Crown:PutInACrown:795.00
+P790:RootCanel:ReplaceBadTooth:1019.00
+P888:Polishing:xxxxxxxxxx:299.99
